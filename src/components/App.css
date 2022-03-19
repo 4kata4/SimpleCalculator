@@ -1,0 +1,37 @@
+.result {
+    height: 80px;
+    background-color: black;
+    width: 100%;
+    color: white;
+    outline: solid;
+    outline-color: gray;
+    outline-width: 0.2em ;
+  }
+  
+  .result p {
+    font-size: 40px;
+    margin: 5px;
+  
+  }
+  
+  .calculator-body {
+    max-width: 300px;
+    margin: auto;
+    outline: solid;
+    outline-color: gray;
+    outline-width: 0.2em ;
+  }
+  
+  .button {
+    display: block;
+    background-color: #bbb;
+  }
+  
+  button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+    font-family: 'Roboto';
+    border-color: gainsboro;
+    border-width: 0.5em;
+  }
